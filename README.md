@@ -13,6 +13,10 @@ ues for our team
 <li><a href="http://xxgk.mot.gov.cn/jigou/fgs/201604/t20160425_2973438.html">《道路旅客运输及客运站管理规定》</a></li>
 <li><a href="http://www.gov.cn/gongbao/content/2018/content_5323097.htm">《道路旅客运输企业安全管理规范》</a></li>
 <li><a href="http://www.waizi.org.cn/doc/75806.html">《网络预约出租汽车经营服务管理暂行办法》（2019年修订版全文）</a></li>
+<hr/>
+  <h3>3. 道路货运</h3>
+  <hr/>
+<li><a href="http://zhjt.zhuhai.gov.cn/attachment/0/222/222216/2486635.pdf">广东省交通运输厅 国家税务总局广东省税务局关于印发网络平台道路货物运输经营管理的实施细则2020</a></li>
 <li><a href="http://xxgk.mot.gov.cn/jigou/fgs/201608/t20160830_2973474.html">超限运输车辆行驶公路管理规定2016</a></li>
 <li><a href="http://www.chinatax.gov.cn/n810341/n810755/c2856681/content.html">促进道路货运行业健康稳定发展行动计划（2017—2020年）</a></li>
 <li><a href="http://www.law-lib.com/law/law_view.asp?id=550889">道路货运车辆动态监控服务商服务评价办法2016</a></li>
@@ -46,4 +50,46 @@ ues for our team
 <hr/>
 <h3> 6.  出租小汽车</h3>
 <hr/>
+<li><a href="http://www.gansu.gov.cn/art/2019/9/12/art_4786_428244.html">甘肃省人民政府办公厅关于进一步加强出租汽车行业管理工作的意见2019</a></li>
+<li><a href="http://www.suzhou.gov.cn/szsrmzf/jtzcfg/202002/9804535f871e46db8044bf6ed5475835.shtml">苏州市客运出租汽车管理办法(2019修正)</a></li>
+<li><a href="http://zhjt.zhuhai.gov.cn/zwgk/zcfg/dlys/content/post_2016609.html">出租汽车经营服务管理规定</a></li>
+<li><a href="http://zhjt.zhuhai.gov.cn/zwgk/zcfg/dlys/content/post_2421190.html">《珠海市交通运输局出租汽车企业经营管理服务规范2019》</a></li>
+<li><a href="http://zhjt.zhuhai.gov.cn/zwgk/zcfg/dlys/content/post_2416086.html">《珠海市出租汽车行业驾驶员信用红黑名单管理办法》</a></li>
+<li><a href="http://cncc.bingj.com/cache.aspx?q=%e7%8f%a0%e6%b5%b7%e5%b8%82%e4%ba%a4%e9%80%9a%e8%bf%90%e8%be%93%e5%b1%80%e5%87%ba%e7%a7%9f%e6%b1%bd%e8%bd%a6%e9%a9%be%e9%a9%b6%e5%91%98%e7%ae%a1%e7%90%86%e8%a7%84%e5%ae%9a&d=4636967114119927&mkt=zh-CN&setlang=zh-CN&w=jZJcJNGY6188pjd6CWS4X70R0NUaQ87S">珠海市交通运输局出租汽车驾驶员管理规定</a></li>
+<hr/>
+<h3>7. 城市轨道交通运营</h3>
+<hr/>
+<li><a href="http://xxgk.mot.gov.cn/jigou/ysfws/201806/t20180622_3036141.html">《城市轨道交通运营管理规定》2018</a></li>
+<li><a href="http://www.gov.cn/gongbao/content/2020/content_5477326.htm">城市轨道交通行车组织管理办法2019</a></li>
+<li><a href="http://www.gov.cn/gongbao/content/2020/content_5480496.htm">城市轨道交通客运组织与服务管理办法</a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<hr/>
+<h3>8. </h3>
+<hr/>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<hr/>
+<h3>9. </h3>
+<hr/>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<hr/>
+<h3>10. </h3>
+<hr/>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<hr/>
+<h3>11. </h3>
+<hr/>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<hr/>
+<h3>12. </h3>
+<hr/>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+
+<li><a href=""></a></li>
+
 <ul/>
