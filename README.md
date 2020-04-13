@@ -64,7 +64,7 @@ ues for our team
 <li><a href="http://xxgk.mot.gov.cn/jigou/ysfws/201806/t20180622_3036141.html">《城市轨道交通运营管理规定》2018</a></li>
 <li><a href="http://www.gov.cn/gongbao/content/2020/content_5477326.htm">城市轨道交通行车组织管理办法2019</a></li>
 <li><a href="http://www.gov.cn/gongbao/content/2020/content_5480496.htm">城市轨道交通客运组织与服务管理办法</a></li>
-<li><a href=""></a></li>
+<li><a href="http://xxgk.mot.gov.cn/jigou/ysfws/201908/t20190802_3233419.html">城市轨道交通设施设备运行维护管理办法2019</a></li>
 <li><a href=""></a></li>
 <hr/>
 <h3>8. </h3>
